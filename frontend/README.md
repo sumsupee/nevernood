@@ -1,6 +1,10 @@
 Nevernood helps you save time on clothing decisions everyday, not only does it offer fashion advice but builds your digital closet every time you use it.
 
 Quick, personalized and stylish decisions for you to never worry about leaving the house nude.
+# Screenshots
+![Home Page](nevernood-home.png)
+
+![Chat Page](nevernood-chat.png)
 
 # Getting Started
 
